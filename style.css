@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(158, 187, 242);
+}
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(91, 215, 141);
+    text-align: center;
+}
+.note{
+    white-space: normal;
+}
